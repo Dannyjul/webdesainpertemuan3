@@ -1,0 +1,40 @@
+body
+{
+    background-color: gainsboro;
+}
+
+.bg-putih
+{
+    background-color: white;
+}
+
+.marjin-atas
+{
+    margin-top: 25px;
+}
+
+.marjin-bawah
+{
+    margin-bottom: 10px;
+}
+
+.peding-50px
+{
+    padding: 47px;
+}
+
+.peding-100px
+{
+    padding: 100px;
+}
+
+.lebar-47p
+{
+    width: 45%;
+}
+
+.tinggi-200
+{
+    height: 200px;
+    width: 100%;
+}
